@@ -7,12 +7,12 @@ navigate to project
 
 after adding files:
 
-'git add .'
+`git add .`
 
-after important changes"
+after important changes
 
-'git commit -am'useful commit message''
+`git commit -am'useful commit message'`
 
 to upload to github
 
-'git push origin main'
+`git push origin main`
