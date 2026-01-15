@@ -28,3 +28,5 @@ to upload to github
 of just:
 
 `git push`
+
+remember to keep your webbrowser console open for errors
