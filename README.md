@@ -16,3 +16,7 @@ after important changes
 to upload to github
 
 `git push origin main`
+
+of just:
+
+`git push`
